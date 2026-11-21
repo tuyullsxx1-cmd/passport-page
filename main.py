@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Entrypoint: copies the pre-rendered passport spread to the output directory, deterministically.
 """The Passport Page of a Country That Isn't There.
 
 Copies the bundled passport spread (entry.png) to
